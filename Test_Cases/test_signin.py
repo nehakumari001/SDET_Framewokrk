@@ -80,7 +80,7 @@ class TestSignin:
     def test_signin_flow(self):
         si = Signin(self.driver)
         si.set_signin()
-        si.set_email("neha0907@gmail.com")
+        si.set_email("nehakumari0709003@gmail.com")
         si.set_count()
         si.set_f_name("Neha")
         si.set_l_name("Singh")
